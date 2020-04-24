@@ -7,7 +7,7 @@ This program scrapes the covid-19 data from the [Illinois page](http://www.dph.i
 
 - Creating tables from CSV data
 - Data analytics for Illinois COVID-19 cases
-- The function that gets the website, as well as triggers the onClick function can be used on any other website with similar functions, by respectively replacing these variables to fit the particular website's needs.
+- The function that gets the website, as well as triggers the onClick function can be used on any other website with similar functions, by respectively replacing these variables to fit the particular website's needs
 
 ### Instructions
 
