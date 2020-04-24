@@ -3,6 +3,12 @@
 ### Summary
 This program scrapes the covid-19 data from the [Illinois page](http://www.dph.illinois.gov/covid19/covid19-statistics) that displays the case data on a zip per zip basis. It triggers JavaScript elements within the page to trigger a query, then uses the HTML table to create a CSV that can later be used for a visual table or any other sort of data analytics.
 
+### Usages
+
+- Creating tables from CSV data
+- Data analytics for Illinois COVID-19 cases
+- The function that triggers gets the website, as well as triggers the onClick function can be used on any other website with similar functions, by respectively replacing these variables to fit the particular website's needs.
+
 ### Instructions
 
 #### Dependencies
