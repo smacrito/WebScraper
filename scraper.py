@@ -3,7 +3,7 @@ import csv
 
 def main():
                                         #CHANGE TO YOUR DRIVER PATH -- GECKO DRIVER IS MOZILLA
-    driver = wd.Firefox(executable_path=r'C:\Users\Sammy\Desktop\CovidDataScraper\WebScraper\geckodriver.exe')
+    driver = wd.Firefox(executable_path=r'C:\x\x\x\x\WebScraper\geckodriver.exe')
     driver.set_page_load_timeout(30)
     driver.get('https://www.dph.illinois.gov/covid19/covid19-statistics')
     
