@@ -31,4 +31,5 @@ pip install selenium
  - The "all" onClick element on the Illinois page randomly changes xPaths, which are used to identify it due to the lack of CSS or HTML identifiers. 
 -- A fix to this may be to find  the element by name, "All", but there are other elements on the page that may conflict with that function.
  
-
+## References
+https://www.selenium.dev/documentation/en/
